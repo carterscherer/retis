@@ -43,3 +43,9 @@
         }
     }
 }
+
+@media screen and (max-width: 768px) {
+    .landing {
+        max-height: 100vh;
+    }
+}
