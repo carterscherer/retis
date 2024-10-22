@@ -13,10 +13,10 @@ export default function Landing() {
         />
       </div>
       <Backdrop />
-      <div className="textBox">
+      {/* <div className="textBox">
       <h1 className="title" >Unparalleled Discovery</h1>
       <p1 className="description" >supercharging intelligence via novel neural networks</p1>
-      </div>
+      </div> */}
     </div>
   );
 }
